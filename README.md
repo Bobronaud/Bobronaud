@@ -11,3 +11,7 @@
 - Пишу чистый код в соответствии с правилами ESLint
 - Знаком с TDD, умею писать автотесты на Jest
 - Понимаю основные принципы ООП (SOLID)
+#
+Telegram: @bobronaud
+
+Email: bobronaud@gmail.com
