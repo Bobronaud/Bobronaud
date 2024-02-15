@@ -4,7 +4,7 @@
 
 [comment]: # (Умею работать с git / TypeScript / SASS / redux-toolkit / webpack / websockets / i18next / bootstrap / ...etc.)
 
-Принимаю активное участие в **Open sourse**, контрибьютор [runit](https://github.com/bobronaud/runit).
+Принимаю активное участие в **Open sourse**, контрибьютор [runit](https://github.com/bobronaud/runit). (Мои [пул реквесты](https://github.com/pulls?q=is%3Apr+author%3Abobronaud+archived%3Afalse+is%3Aclosed))
 
 Мои проекты:
 
