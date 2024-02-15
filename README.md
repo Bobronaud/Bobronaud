@@ -6,7 +6,7 @@
 
 Принимаю активное участие в **Open sourse**, контрибьютор [runit](https://github.com/bobronaud/runit).
 
-Мои веб-приложения:
+Мои проекты:
 
 1. [chat](https://github.com/bobronaud/chat)
 2. [rss-reader](https://github.com/bobronaud/rss-reader)
