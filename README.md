@@ -29,5 +29,5 @@
 <ul>
   <li>Резюме: <a href="https://spb.hh.ru/resume/13436575ff0c9e67660039ed1f5134366c3748">hh.ru</a></li>
   <li>Telegram: <a href="https://t.me/bobronaud">@bobronaud</a></li>
-  <li>Email: bobronaud@gmail.com</li>
+  <li>Email: <a href="mailto:bobronaud@gmail.com">bobronaud@gmail.com</a></li>
 </ul>
