@@ -26,6 +26,9 @@
 </ul>
 <h2>Навыки</h2>
 <h3>Стек</h3>
+<p>
+<img src="https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=yellow">
+</p>
 <h3>Фреймворки и библиотеки</h3>
 <h3>Прочее</h3>
 <h2>Контакты</h2>
