@@ -46,6 +46,12 @@
   <img src="https://img.shields.io/badge/socket.io-010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white">
 </p>
 <h3>Прочее</h3>
+<ul>
+  <li>Уверенно пользуюсь Git;</li>
+  <li>Умею писать адаптивные и кроссбраузерные веб-приложения;</li>
+  <li>Пишу чистый код в соответствии с правилами ESLint;</li>
+  <li>Понимаю основные принципы разработки SOLID, DRY, KISS.</li>
+</ul>
 <h2>Контакты</h2>
 <ul>
   <li>Резюме: <a href="https://spb.hh.ru/resume/13436575ff0c9e67660039ed1f5134366c3748">hh.ru</a></li>
