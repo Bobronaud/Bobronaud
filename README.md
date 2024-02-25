@@ -1,4 +1,4 @@
-<h2 align="center">Привет, я Александр ✌️<br>Frontend разработчик на React</h2>
+<h2 align="center">Привет, я Александр<br>Frontend разработчик на React</h2>
 <p align="center">
   <img src="./Jim.gif">
 </p>
