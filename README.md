@@ -1,4 +1,4 @@
-<h2 align="center">Привет, я Александр ✌️<br>Frontend разработчик на React и Vue</h2>
+<h2 align="center">Привет, я Александр ✌️<br>Frontend разработчик на React</h2>
 <p align="center">
   <img src="./Jim.gif">
 </p>
@@ -37,13 +37,13 @@
 <p>
   <img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white">
-  <img src="https://img.shields.io/badge/vue3-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black">
   <img src="https://img.shields.io/badge/axios-5A29E4.svg?style=for-the-badge&logo=axios&logoColor=white">
   <img src="https://img.shields.io/badge/jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/i18next-26A69A.svg?style=for-the-badge&logo=i18next&logoColor=white">
   <img src="https://img.shields.io/badge/socket.io-010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white">
+  <img src="https://img.shields.io/badge/formik-blue.svg?style=for-the-badge">
 </p>
 <h3>Прочее</h3>
 <ul>
