@@ -15,6 +15,7 @@
    <ul>
      <li><a href="https://github.com/bobronaud/chat">chat</a></li>
      <li><a href="https://github.com/bobronaud/rss-reader">rss-reader</a></li>
+     <li><a href="https://github.com/bobronaud/olga-ivanova">olga-ivanova</a></li>
    </ul> 
   </li>
   <li>
