@@ -11,7 +11,7 @@
     Мои пул реквесты <a href="https://github.com/pulls?q=is%3Apr+author%3Abobronaud+archived%3Afalse+is%3Aclosed">здесь</a>.
   </li>
   <li>
-   <h3>Проекты</h3>
+   <h3>Личные проекты</h3>
    <ul>
      <li><a href="https://github.com/bobronaud/chat">chat</a></li>
      <li><a href="https://github.com/bobronaud/rss-reader">rss-reader</a></li>
