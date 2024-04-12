@@ -21,6 +21,7 @@
   <li>
     <h3>Тестовые задания</h3>
     <ul>
+      <li><a href="https://github.com/bobronaud/cards-test-assignment">company cards</a></li>
       <li><a href="https://github.com/bobronaud/virtual-scroll-test-assignment">virtual-scroll</a></li>
     </ul>
   </li>
