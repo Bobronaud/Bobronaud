@@ -21,9 +21,9 @@
   <li>
     <h3>Тестовые задания</h3>
     <ul>
+      <li><a href="https://github.com/bobronaud/testing-test-assignment">testing</a></li>
       <li><a href="https://github.com/bobronaud/company-cards-test-assignment">company-cards</a></li>
       <li><a href="https://github.com/bobronaud/virtual-scroll-test-assignment">virtual-scroll</a></li>
-      <li><a href="https://github.com/bobronaud/testing-test-assignment">testing</a></li>
     </ul>
   </li>
 </ul>
