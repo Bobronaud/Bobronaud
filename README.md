@@ -13,6 +13,7 @@
   <li>
    <h3>Личные проекты</h3>
    <ul>
+    <li><a href="https://github.com/bobronaud/testing-test-assignment">testing</a></li>
      <li><a href="https://github.com/bobronaud/chat">chat</a></li>
      <li><a href="https://github.com/bobronaud/rss-reader">rss-reader</a></li>
      <li><a href="https://github.com/bobronaud/olga-ivanova">olga-ivanova</a></li>
@@ -21,7 +22,6 @@
   <li>
     <h3>Тестовые задания</h3>
     <ul>
-      <li><a href="https://github.com/bobronaud/testing-test-assignment">testing</a></li>
       <li><a href="https://github.com/bobronaud/company-cards-test-assignment">company-cards</a></li>
       <li><a href="https://github.com/bobronaud/virtual-scroll-test-assignment">virtual-scroll</a></li>
     </ul>
