@@ -6,7 +6,7 @@
 <ul>
   <li>
     <h3>Open sourse</h3>
-    Принимаю участие в open sourse, контрибьютор онлайн-редактора кода <a href="https://github.com/bobronaud/runit">Runit</a>.
+    Принимал участие в open sourse. Контрибьютор онлайн-редактора кода <a href="https://github.com/bobronaud/runit">Runit</a>.
     <br>
     Мои пул реквесты <a href="https://github.com/pulls?q=is%3Apr+author%3Abobronaud+archived%3Afalse+is%3Aclosed">здесь</a>.
   </li>
